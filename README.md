@@ -3,7 +3,7 @@ My portfolio website that describes consulting services, showcases latest projec
 
 **Link to project:** https://jaclynbrothers.netlify.app/
 
-![portfolio](http://placecorgi.com/1200/650)
+![portfolio](https://github.com/jaclynbrothers/portfolio/blob/main/images/portfolio.png)
 
 ## How It's Made:
 
@@ -21,12 +21,13 @@ I experimented with the dimensions of photos and icon sizes that adjusted with c
 
 ## Credits
 
-	Images:
-		Unsplash (unsplash.com)
+Images: Unsplash.com
 
 ## Other Projects
 
-<table bordercolor="#66b2b2">
+**Coming Soon**
+
+<!-- <table bordercolor="#66b2b2">
   <tr>
     <td width="33.3%"  style="align:center;" valign="top">
 	<a target="_blank" href="#">**Coming Soon**</a>
@@ -50,10 +51,4 @@ I experimented with the dimensions of photos and icon sizes that adjusted with c
         </a>
     </td>
   </tr>
-</table>
-
-**Palettable:** https://github.com/alecortega/palettable
-
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
-
-**Patch Panel:** https://github.com/alecortega/patch-panel
+</table> -->
