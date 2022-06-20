@@ -5,7 +5,7 @@ My portfolio website that describes consulting services, showcases latest projec
 
 ![portfolio](https://github.com/jaclynbrothers/portfolio/blob/main/images/portfolio.png)
 
-## How It's Made:
+## How It's Made
 
 **Tech used:** HTML, CSS, JavaScript
 
