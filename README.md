@@ -3,7 +3,7 @@ My portfolio website that describes consulting services, showcases latest projec
 
 **Link to project:** https://jaclynbrothers.netlify.app/
 
-![portfolio](https://github.com/jaclynbrothers/portfolio/blob/main/images/portfolio.png)
+https://user-images.githubusercontent.com/102431119/191110481-f1f7cb84-e188-4a8e-8e2b-af4a366e540f.mp4
 
 ## How It's Made
 
