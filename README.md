@@ -2,7 +2,7 @@
 
 My portfolio website that describes consulting services, showcases latest projects, and provides ways to contact me.
 
-**Link to project:** https://jaclynbrothers.netlify.app/
+**Link to project:** https://jaclynbrothers.com/
 
 https://user-images.githubusercontent.com/102431119/191110481-f1f7cb84-e188-4a8e-8e2b-af4a366e540f.mp4
 
